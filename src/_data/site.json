@@ -1,17 +1,13 @@
 {
-  "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "baseURL": "https://www.pepijnschildkamp.nl",
+  "author": "Pepijn Schildkamp",
+  "description": "Portfolio - Pepijn Schildkamp",
+  "title": "Portfolio - Pepijn Schildkamp",
   "language": "en",
   "social": [
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/#"
-    },
-    {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://www.linkedin.com/in/pepijnschildkamp/"
     }
   ]
 }
